@@ -1,1 +1,1 @@
-# CodeClauseInternship_Basic-Chat-application-using-WebSockets
+# CodeClauseInternship-Basic-Chat-application-using-WebSockets
